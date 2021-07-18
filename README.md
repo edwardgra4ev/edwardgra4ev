@@ -1,7 +1,7 @@
 [![Header](tmp/image.png)](https://github.com/edwardgra4ev)
 
 ## Open source, can't be bad!
-----------
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-bage&logo=python&logoColor=2CA5E0)
 ![FastApi](https://img.shields.io/badge/-FastApi-090909?style=for-the-bage&logo=FastApi&logoColor=04988A)
