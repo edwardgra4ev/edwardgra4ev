@@ -12,3 +12,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-bage&logo=VK&logoColor=4f7db3)](https://vk.com/edwardfreed)
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-bage&logo=instagram&logoColor=b4068e)](https://www.instagram.com/edwardgra4ev/)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-bage&logo=telegram&logoColor=b4068e)](https://t.me/EdwardFReeD)
+[![stackoverflow](https://img.shields.io/badge/-stackoverflow-090909?style=for-the-bage&logo=stackoverflow&logoColor=F48024)](https://stackoverflow.com/users/14590685/edward-grachev)
