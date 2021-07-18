@@ -1,17 +1,14 @@
-### Hi there 👋
+[![Header](tmp/image.png)](https://github.com/edwardgra4ev)
 
-<!--
-**edwardgra4ev/edwardgra4ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open source, can't be bad!
+----------
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-bage&logo=python&logoColor=2CA5E0)
+![FastApi](https://img.shields.io/badge/-FastApi-090909?style=for-the-bage&logo=FastApi&logoColor=04988A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-bage&logo=JavaScript&logoColor=FDD832)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-bage&logo=mysql&logoColor=F8981E)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![alt](https://coolgenerator.com/Data/Textdesign/202107/c686fd28dab3013a446de38222b13853.png)
+### Follow me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-bage&logo=VK&logoColor=4f7db3)](https://vk.com/edwardfreed)
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-bage&logo=instagram&logoColor=b4068e)](https://www.instagram.com/edwardgra4ev/)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-bage&logo=telegram&logoColor=b4068e)](https://t.me/EdwardFReeD)
