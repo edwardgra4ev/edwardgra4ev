@@ -1,4 +1,3 @@
-[![Header](tmp/image.png)](https://github.com/edwardgra4ev)
 <a href="https://app.daily.dev/edwardgra4ev"><img src="https://api.daily.dev/devcards/247f0c3e0d8949078f0305aea3bc0c93.png?r=01d" width="400" alt="Eduard Grachev's Dev Card"/></a>
 
 ## Open source, can't be bad!
